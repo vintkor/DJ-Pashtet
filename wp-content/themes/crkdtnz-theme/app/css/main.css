@@ -25,11 +25,11 @@
 
 ::-moz-selection {
   background: #FFDE00;
-  color: #000; }
+  color: #292F33; }
 
 ::selection {
   background: #FFDE00;
-  color: #000; }
+  color: #292F33; }
 
 h1,
 h2,
@@ -286,8 +286,8 @@ ul.top-menu,
 /*_____________________________Section-3_________________________________*/
 .section-3 {
   padding: 100px 0;
-  background: -webkit-radial-gradient(rgba(255, 255, 255, 0), #000), #000D49;
-  background: radial-gradient(rgba(255, 255, 255, 0), #000), #000D49; }
+  background: -webkit-radial-gradient(rgba(255, 255, 255, 0), #000), #292F33;
+  background: radial-gradient(rgba(255, 255, 255, 0), #000), #292F33; }
   .section-3 h2 {
     padding-bottom: 100px; }
 
@@ -295,8 +295,8 @@ ul.top-menu,
 /*_____________________________Section-5_________________________________*/
 .section-5 {
   padding: 100px 0;
-  background: -webkit-radial-gradient(rgba(255, 255, 255, 0), #000), #000D49;
-  background: radial-gradient(rgba(255, 255, 255, 0), #000), #000D49; }
+  background: -webkit-radial-gradient(rgba(255, 255, 255, 0), #000), #292F33;
+  background: radial-gradient(rgba(255, 255, 255, 0), #000), #292F33; }
   .section-5 h2 {
     padding-bottom: 100px; }
   .section-5 iframe {
@@ -338,7 +338,7 @@ a {
 
 /*_____________________________Pre-footer_________________________________*/
 .pre-footer {
-  background: #333333;
+  background: #292F33;
   padding: 30px 0;
   margin-top: 30px;
   text-align: center; }
